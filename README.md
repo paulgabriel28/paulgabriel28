@@ -1,58 +1,44 @@
 ###
-
-<h1 align="center">paulgabriel</h1>
+# hey there 👋
 
 ###
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCg8ypcuc8a_EmV7yDWVhbKQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://www.svgrepo.com/show/13671/youtube.svg" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://discordapp.com/users/880057361081987082" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+
   <a href="https://www.instagram.com/paul.gabriel28/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="25" alt="instagram logo"  />
   </a>
+  
+  <p align="center">
+   <a href="https://discord.com/users/880057361081987082" target="_blank" rel="nofollow">
+      <img src="https://lanyard.cnrad.dev/api/880057361081987082" alt="Discord Presence" align="center">
+   </a>
+</p>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=paulgabriel28.paulgabriel28&"  />
-</div>
+# 👩‍💻  About Me
+- I'm Paul from Romania.
+- 🔭 I’m working as developer.
+- 📚 I'm currently learning JavaScript and Discord.js.
+- ⚡ In my free time, I play video games, for example: FIFA on PS4/PC, CS:GO, and SAMP.
 
 ###
 
-<h2 align="center">hey there 👋</h2>
+# 🛠 Language and tools
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,clion,cmake,html,css,js,bots,github,gitlab,matlab,mysql,ps,pr,php,phpstorm,pycharm,py,vscode,webstorm)](https://skillicons.dev)
 
 ###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Paul from Romania.<br><br>- 🔭 I’m working as developer.<br>- 📚 I'm currently learning JavaScript and Discord.js.<br>- ⚡ In my free time, I play video games, for example: FIFA on PS4/PC, CS:GO, and SAMP.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-   <img width="12" />
-  <img src="https://i.imgur.com/grbA6HV.png" height="40" alt="pycharm"  />
-
-</div>
+# 📊 GitHub Info
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=paulgabriel28.paulgabriel28&) 
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulgabriel28&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=0000ff&icon_color=0000ff&hide_title=true" />
+    </td>
+  </tr>
+</table>
