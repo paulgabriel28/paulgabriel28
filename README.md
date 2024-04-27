@@ -22,7 +22,7 @@
 ###
 
 # 👩‍💻  About Me
-- I'm Paul from Romania.
+- I'm Gabriel from Romania.
 - 🔭 I’m working as developer.
 - 📚 I'm currently learning JavaScript and Discord.js.
 - ⚡ In my free time, I play video games, for example: FIFA on PS4/PC, CS:GO, and SAMP.
