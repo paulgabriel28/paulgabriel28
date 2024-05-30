@@ -24,7 +24,7 @@
 # 👩‍💻  About Me
 - I'm Gabriel from Romania.
 - 🔭 I’m working as developer.
-- 📚 I'm currently learning JavaScript and Discord.js.
+- 📚 I'm currently learning Java.
 - ⚡ In my free time, I play video games, for example: FIFA on PS4/PC, CS:GO, and SAMP.
 
 ###
